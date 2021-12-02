@@ -33,7 +33,6 @@ Fully Automated Irrigation System Which Will Turn ON and OFF a Water Pump as Per
 
 Highly Sensitive,Low Cost and Reliable Circuit.
 
-
 ### Weakness
 This requires some equipment like Atmega micro controller and some peripeherals
 
