@@ -1,6 +1,8 @@
 
 # M2-embedded_IrrigationApplication
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/ffd4acebd3644e319ac45faf9532cb5d)](https://app.codacy.com/gh/tlnsnani/M2-Embedded_IrrigationApplication?utm_source=github.com&utm_medium=referral&utm_content=tlnsnani/M2-Embedded_IrrigationApplication&utm_campaign=Badge_Grade_Settings)
+
 
 
 
