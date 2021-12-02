@@ -1,4 +1,3 @@
-
 # Requirements
 ## Introduction
 India is mainly an agricultural country. Agriculture is the most important occupation for the most of the Indian families. It plays vital role in the development of agricultural country. In India, agriculture contributes about 16% of total GDP and 10% of total exports. Water is main resource for Agriculture. Irrigation is one method to supply water but in some cases there will be lot of water wastage. So, in this regard to save water and time we have proposed project titled automatic irrigation system using IoT. In this proposed system we are using various sensors like temperature, humidity, soil moisture sensors which senses the various parameters of the soil and based on soil moisture value land gets automatically irrigated by ON/OFF of the motor.
