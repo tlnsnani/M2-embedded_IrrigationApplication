@@ -63,4 +63,4 @@ Cheap Complementary Products May Enter to the Market.
 |---------|-------------|--------|
 | LLR_1	| Can't loaded More Than the System Specifications |	IMPLEMENTED |
 | LLR_2	| The System Can Operated in Night also which Results in Minimum Amount of the Water |	IMPLEMENTED |
-| LLR_3	| Irrigation Process Starts and Stops When Needed Hence it Optimize Energy Requirements |	IMPLEMENTEDRequirements |
+| LLR_3	| Irrigation Process Starts and Stops When Needed Hence it Optimize Energy Requirements |	IMPLEMENTED |
